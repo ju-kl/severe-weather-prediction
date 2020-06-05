@@ -1,6 +1,7 @@
 # Severe Weather Prediction with Machine Learning
 
 **Authors:** [Brea Beals](https://github.com/brbeals/), [Julian Kleindiek](https://github.com/ju-kl/), [Mark Roberts](https://github.com/markfroberts99/)
+
 **Date:** June 2020
 
 GitHub repository for our final project of the 'Machine Learning' course at the University of Chicago: https://github.com/ju-kl/severe_weather_prediction
