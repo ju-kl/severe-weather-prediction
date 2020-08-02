@@ -4,7 +4,7 @@
 
 **Date:** June 2020
 
-GitHub repository for our final project of the 'Machine Learning' course at the University of Chicago: https://github.com/ju-kl/severe_weather_prediction
+GitHub repository for our final project of the 'Machine Learning' course at the University of Chicago: https://github.com/ju-kl/severe-weather-prediction
 
 **Business Problem:** Severe weather events caused >1,300 deaths and >$100B in damages from 2015 to 2020 in the US alone. For communities to better prepare for those events, our goal is to predict if a severe weather event is likely to happen in the near future and if so which type of event. For insurances to be able to allocate funds early and respond to those events quickly, our second goal is to predict the expected damage from severe weather events.
 
